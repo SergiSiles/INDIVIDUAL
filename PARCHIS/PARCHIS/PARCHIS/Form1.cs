@@ -79,6 +79,7 @@ namespace PARCHIS
         {
             InitializeComponent();
             CheckForIllegalCrossThreadCalls = false;
+
         }
 
 
