@@ -1,0 +1,2 @@
+# INDIVIDUAL
+Ejercicio SO individuales
