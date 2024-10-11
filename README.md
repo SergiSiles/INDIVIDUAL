@@ -1,2 +1,2 @@
 # INDIVIDUAL
-Ejercicio SO individuales
+Ejercicio SO individuales prueba
