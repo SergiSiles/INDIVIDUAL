@@ -86,7 +86,7 @@ namespace PARCHIS
         private void button1_Iniciar_Sesion_Click(object sender, EventArgs e)
         {
             //Creamos un IPEndPont con el ip del servidor y el puerto del servidor al que deseamos conectarnos
-            IPAddress direc = IPAddress.Parse("127.0.0.1");
+            IPAddress direc = IPAddress.Parse("192.168.56.101");
             IPEndPoint ipep = new IPEndPoint(direc, 9050);
 
             //Creamos el socket
